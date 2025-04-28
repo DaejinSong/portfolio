@@ -5,17 +5,17 @@ import "./globals.css";
 const geistSans = localFont({
   src: [
     {
-      path: '../fonts/Geist-Regular.woff2',
+      path: '../../public/fonts/Geist-Regular.woff2',
       weight: '400',
       style: 'normal',
     },
     {
-      path: '../fonts/Geist-Medium.woff2',
+      path: '../../public/fonts/Geist-Medium.woff2',
       weight: '500',
       style: 'normal',
     },
     {
-      path: '../fonts/Geist-Bold.woff2',
+      path: '../../public/fonts/Geist-Bold.woff2',
       weight: '700',
       style: 'normal',
     },
@@ -26,17 +26,17 @@ const geistSans = localFont({
 const geistMono = localFont({
   src: [
     {
-      path: '../fonts/GeistMono-Regular.woff2',
+      path: '../../public/fonts/GeistMono-Regular.woff2',
       weight: '400',
       style: 'normal',
     },
     {
-      path: '../fonts/GeistMono-Medium.woff2',
+      path: '../../public/fonts/GeistMono-Medium.woff2',
       weight: '500',
       style: 'normal',
     },
     {
-      path: '../fonts/GeistMono-Bold.woff2',
+      path: '../../public/fonts/GeistMono-Bold.woff2',
       weight: '700',
       style: 'normal',
     },
